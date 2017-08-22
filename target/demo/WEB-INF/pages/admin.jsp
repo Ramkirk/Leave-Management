@@ -184,12 +184,8 @@
                         <div class="form-group">
                           <label>DOB*</label>
                           <input type="text" class="form-control" ui-mask="99-99-9999" ng-model="dob" name="dob" placeholder="dd/mm/yyyy">
-
                         </div>
                       </div>
-
-
-
                     </div>
                   </div>
 
